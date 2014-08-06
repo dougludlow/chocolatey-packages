@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>1.0.0</version>
+    <authors>Red Gate</authors>
+    <owners>Douglas Ludlow</owners>
+    <projectUrl>http://www.red-gate.com/products/sql-development/sql-developer-bundle/</projectUrl>
+    <licenseUrl>http://www.red-gate.com/purchase/license</licenseUrl>
+    <id>sql-developer-bundle</id>
+    <title>Red Gate SQL Developer Bundle</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      SQL Source ControlSQL Source Control
+      SQL CompareSQL Compare Pro
+      SQL Data CompareSQL Data Compare Pro
+      SQL PromptSQL Prompt
+      SQL Data GeneratorSQL Data Generator
+      SQL SearchSQL Search
+      SQL DocSQL Doc
+      SQL MultiScriptSQL Multi Script Unlimited
+      SQL TestSQL Test
+      SQL Dependency TrackerSQL Dependency Tracker
+    </description>
+    <summary>10 tools for simpler, faster SQL Server development</summary>
+    <tags>RedGate Red Gate SQL Developer Bundle</tags>
+  </metadata>
+</package>
