@@ -24,4 +24,7 @@
     <summary>10 tools for simpler, faster SQL Server development</summary>
     <tags>RedGate Red Gate SQL Developer Bundle</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
